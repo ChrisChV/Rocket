@@ -1,0 +1,222 @@
+# depslib dependency file v1.0
+1415137470 source:c:\users\christofer\documents\c++\juego naves allegro\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1415137111 c:\users\christofer\documents\c++\juego naves allegro\inicia.h
+	<allegro.h>
+
+1416971136 source:c:\users\christofer\documents\c++\juego naves allegro\main.cpp
+	"sad.h"
+
+1416924985 c:\users\christofer\documents\c++\juego naves allegro\include\nave.h
+	"Dibujo.h"
+
+1416918847 c:\users\christofer\documents\c++\juego naves allegro\include\dibujo.h
+	"MarcoColicion.h"
+	<allegro.h>
+
+1416924425 c:\users\christofer\documents\c++\juego naves allegro\include\lista.h
+	"Dibujo.h"
+
+1416924985 c:\users\christofer\documents\c++\juego naves allegro\include\marcocolicion.h
+
+1416925912 c:\users\christofer\documents\c++\juego naves allegro\include\proyectil.h
+	<allegro.h>
+	"Dibujo.h"
+
+1416920206 c:\users\christofer\documents\c++\juego naves allegro\include\asteroide.h
+	"Dibujo.h"
+
+1415586109 c:\users\christofer\documents\c++\juego naves allegro\include\nodo.h
+	"Lista.h"
+	<allegro.h>
+	<iostream>
+
+1416920597 c:\users\christofer\documents\c++\juego naves allegro\include\estrella.h
+	"Dibujo.h"
+
+1416921931 c:\users\christofer\documents\c++\juego naves allegro\include\explocion.h
+	"Dibujo.h"
+
+1416920206 source:c:\users\christofer\documents\c++\juego naves allegro\src\asteroide.cpp
+	"Asteroide.h"
+	"sad.h"
+
+1417017140 source:c:\users\christofer\documents\c++\juego naves allegro\src\dibujo.cpp
+	"Dibujo.h"
+	"sad.h"
+
+1416921931 source:c:\users\christofer\documents\c++\juego naves allegro\src\estrella.cpp
+	"Estrella.h"
+	<allegro.h>
+	<cstdlib>
+
+1417017140 source:c:\users\christofer\documents\c++\juego naves allegro\src\marcocolicion.cpp
+	"MarcoColicion.h"
+
+1416925912 source:c:\users\christofer\documents\c++\juego naves allegro\src\nave.cpp
+	"Nave.h"
+
+1415585561 source:c:\users\christofer\documents\c++\juego naves allegro\src\nodo.cpp
+	"Nodo.h"
+	"Lista.h"
+
+1416925912 source:c:\users\christofer\documents\c++\juego naves allegro\src\proyectil.cpp
+	"Proyectil.h"
+
+1416921931 source:c:\users\christofer\documents\c++\juego naves allegro\src\explocion.cpp
+	"Explocion.h"
+
+1416971733 source:c:\users\christofer\documents\c++\juego naves allegro\src\lista.cpp
+	"Lista.h"
+	"sad.h"
+
+1416920206 c:\users\christofer\documents\c++\juego naves allegro\include\asteroided.h
+	"Asteroide.h"
+
+1416920206 source:c:\users\christofer\documents\c++\juego naves allegro\src\asteroided.cpp
+	"AsteroideD.h"
+
+1416920597 c:\users\christofer\documents\c++\juego naves allegro\include\asteroidei.h
+	"Asteroide.h"
+
+1416920597 source:c:\users\christofer\documents\c++\juego naves allegro\src\asteroidei.cpp
+	"AsteroideI.h"
+
+1416971938 source:c:\users\christofer\documents\c++\juego naves allegro\src\powerups.cpp
+	"PowerUps.h"
+
+1416925912 c:\users\christofer\documents\c++\juego naves allegro\include\powerups.h
+	<allegro.h>
+	"Asteroide.h"
+
+1416917524 c:\users\christofer\documents\c++\juego naves allegro\include\sad.h
+	<allegro.h>
+	<iostream>
+	"Nave.h"
+	"Proyectil.h"
+	"Asteroide.h"
+	<cstdlib>
+	<time.h>
+	"Estrella.h"
+	"Explocion.h"
+	"Lista.h"
+	"AsteroideI.h"
+	"PowerUps.h"
+	"Alfabeto.h"
+
+1416849055 c:\users\christofer\documents\c++\juego naves allegro\include\alfabeto.h
+
+1416849073 source:c:\users\christofer\documents\c++\juego naves allegro\src\alfabeto.cpp
+	"Alfabeto.h"
+	<allegro.h>
+	<stdlib.h>
+	<string.h>
+
+1415137470 source:c:\users\christofer\documents\c++\juego naves allegro - copia (9)\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1415137111 c:\users\christofer\documents\c++\juego naves allegro - copia (9)\inicia.h
+	<allegro.h>
+
+1416849073 source:c:\users\christofer\documents\c++\juego naves allegro - copia (9)\src\alfabeto.cpp
+	"Alfabeto.h"
+	<allegro.h>
+	<stdlib.h>
+	<string.h>
+
+1416849055 c:\users\christofer\documents\c++\juego naves allegro - copia (9)\include\alfabeto.h
+
+1416920206 source:c:\users\christofer\documents\c++\juego naves allegro - copia (9)\src\asteroide.cpp
+	"Asteroide.h"
+	"sad.h"
+
+1416920206 c:\users\christofer\documents\c++\juego naves allegro - copia (9)\include\asteroide.h
+	"Dibujo.h"
+
+1416918847 c:\users\christofer\documents\c++\juego naves allegro - copia (9)\include\dibujo.h
+	"MarcoColicion.h"
+	<allegro.h>
+
+1416924985 c:\users\christofer\documents\c++\juego naves allegro - copia (9)\include\marcocolicion.h
+
+1416917524 c:\users\christofer\documents\c++\juego naves allegro - copia (9)\include\sad.h
+	<allegro.h>
+	<iostream>
+	"Nave.h"
+	"Proyectil.h"
+	"Asteroide.h"
+	<cstdlib>
+	<time.h>
+	"Estrella.h"
+	"Explocion.h"
+	"Lista.h"
+	"AsteroideI.h"
+	"PowerUps.h"
+	"Alfabeto.h"
+
+1416924985 c:\users\christofer\documents\c++\juego naves allegro - copia (9)\include\nave.h
+	"Dibujo.h"
+
+1416925912 c:\users\christofer\documents\c++\juego naves allegro - copia (9)\include\proyectil.h
+	<allegro.h>
+	"Dibujo.h"
+
+1416920597 c:\users\christofer\documents\c++\juego naves allegro - copia (9)\include\estrella.h
+	"Dibujo.h"
+
+1416921931 c:\users\christofer\documents\c++\juego naves allegro - copia (9)\include\explocion.h
+	"Dibujo.h"
+
+1416924425 c:\users\christofer\documents\c++\juego naves allegro - copia (9)\include\lista.h
+	"Dibujo.h"
+
+1416920597 c:\users\christofer\documents\c++\juego naves allegro - copia (9)\include\asteroidei.h
+	"Asteroide.h"
+
+1416925912 c:\users\christofer\documents\c++\juego naves allegro - copia (9)\include\powerups.h
+	<allegro.h>
+	"Asteroide.h"
+
+1416920206 source:c:\users\christofer\documents\c++\juego naves allegro - copia (9)\src\asteroided.cpp
+	"AsteroideD.h"
+
+1416920206 c:\users\christofer\documents\c++\juego naves allegro - copia (9)\include\asteroided.h
+	"Asteroide.h"
+
+1416920597 source:c:\users\christofer\documents\c++\juego naves allegro - copia (9)\src\asteroidei.cpp
+	"AsteroideI.h"
+
+1417017140 source:c:\users\christofer\documents\c++\juego naves allegro - copia (9)\src\dibujo.cpp
+	"Dibujo.h"
+	"sad.h"
+
+1416921931 source:c:\users\christofer\documents\c++\juego naves allegro - copia (9)\src\estrella.cpp
+	"Estrella.h"
+	<allegro.h>
+	<cstdlib>
+
+1416921931 source:c:\users\christofer\documents\c++\juego naves allegro - copia (9)\src\explocion.cpp
+	"Explocion.h"
+
+1416971733 source:c:\users\christofer\documents\c++\juego naves allegro - copia (9)\src\lista.cpp
+	"Lista.h"
+	"sad.h"
+
+1417017140 source:c:\users\christofer\documents\c++\juego naves allegro - copia (9)\src\marcocolicion.cpp
+	"MarcoColicion.h"
+
+1416925912 source:c:\users\christofer\documents\c++\juego naves allegro - copia (9)\src\nave.cpp
+	"Nave.h"
+
+1416971938 source:c:\users\christofer\documents\c++\juego naves allegro - copia (9)\src\powerups.cpp
+	"PowerUps.h"
+
+1416925912 source:c:\users\christofer\documents\c++\juego naves allegro - copia (9)\src\proyectil.cpp
+	"Proyectil.h"
+
+1422324121 source:c:\users\christofer\documents\c++\juego naves allegro - copia (9)\main.cpp
+	"sad.h"
+

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Juego Naves Allegro" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Script file="lib_finder.script" />
+			<Target title="Debug">
+				<Option output="bin/Debug/Juego Naves Allegro" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Juego Naves Allegro" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Alfabeto.h" />
+		<Unit filename="include/Asteroide.h" />
+		<Unit filename="include/AsteroideD.h" />
+		<Unit filename="include/AsteroideI.h" />
+		<Unit filename="include/Dibujo.h" />
+		<Unit filename="include/Estrella.h" />
+		<Unit filename="include/Explocion.h" />
+		<Unit filename="include/Lista.h" />
+		<Unit filename="include/MarcoColicion.h" />
+		<Unit filename="include/Nave.h" />
+		<Unit filename="include/PowerUps.h" />
+		<Unit filename="include/Proyectil.h" />
+		<Unit filename="include/sad.h" />
+		<Unit filename="inicia.cpp" />
+		<Unit filename="inicia.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Alfabeto.cpp" />
+		<Unit filename="src/Asteroide.cpp" />
+		<Unit filename="src/AsteroideD.cpp" />
+		<Unit filename="src/AsteroideI.cpp" />
+		<Unit filename="src/Dibujo.cpp" />
+		<Unit filename="src/Estrella.cpp" />
+		<Unit filename="src/Explocion.cpp" />
+		<Unit filename="src/Lista.cpp" />
+		<Unit filename="src/MarcoColicion.cpp" />
+		<Unit filename="src/Nave.cpp" />
+		<Unit filename="src/PowerUps.cpp" />
+		<Unit filename="src/Proyectil.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
